@@ -1,0 +1,50 @@
+.box_table> table th{
+  background-color: lightgray;
+  text-align: left;
+  color: black;
+}
+
+
+.backgroundtext> h1, .backgroundtext> form{
+  text-align: center;
+
+}
+
+.spanborder> span, .spanborder ul li{
+  color: skyblue;
+  font-size: 40px;
+
+
+}
+
+
+.colortext> a{
+  color: lightgray;
+
+}
+
+.font> p{
+  font-style: italic;
+  font-size: 30px;
+  font-family: "Times New Roman";
+  text-align: left;
+}
+
+.backgroundposition{
+  background-position: top;
+  background-size: 100%;
+  background-image: url('images/background tablet.jpg');
+  background-repeat:repeat-y;
+  background-blend-mode: darken;
+  color: white;
+
+}
+
+
+#websites> img, p{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 300px;
+
+}
